@@ -1,3 +1,11 @@
+# Abandone aka Archived
+
+Just by looking into the code SQLite wins. Although Level DB is not fully conformant SQL database. Still there is no comparison.
+
+Also Wikipedia [Leveld DB article](https://en.wikipedia.org/wiki/LevelDB) makes me wonder. This looks to me like Jeff and Sanjay "playground project". The worst (for me) is it is C++ and not C code.
+
+Perhaps you need to [read this](https://en.wikipedia.org/wiki/Lightning_Memory-Mapped_Database) before deciding on Level DB. LMDB seems the way to go. Funny thing is I have not found any Jeff or Sanjay comment on LMDB yet?
+
 # LevelDB 1.18 
 ## VisualStudio Solution
 
